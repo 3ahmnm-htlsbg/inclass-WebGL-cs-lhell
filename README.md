@@ -1,28 +1,26 @@
 # Unity2019114f1-2D-Template
 
 ### Project description: 
-Introduction/Project summary 
+Moving a Ball into a random Position by pushing a button
 
 ### Development platform: 
-(OS, Unity Version, Visual Studio Version, used SDKs)
+macOS High Sierra, Unity 2019.1.14f1, Brackets 1.10
 
 ### Target platform: 
-WebGL, Mobile, VR Device incl. reference resolution 
+WebGL incl. reference resolution 960x600
 
 ### Visuals: 
-Screenshots (concept and experience), Video
-
-### Necessary setup/execution steps: 
-Installation process, e.g. step by step instructions that I can run the project after cloning it
+<div>
+<img src ="Assets/MyGame/Screenshot/Screenshot01.png" width="500px">
+</div>
 
 ### Third party material: 
-(if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
+<div>
+<img src ="Assets/MyGame/Sprites/football_PNG52775.png" width="500px">
+</div>
 
 ### Project state: 
-incl. progress in percent
+when pushing the button the ball moves, but there is no WebGL yet
+ 
 
-### Limitations: 
-
-### Lessons Learned: 
-
-Copyright by you :)
+Copyright by lhell
