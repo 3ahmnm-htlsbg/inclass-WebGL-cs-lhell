@@ -19,6 +19,8 @@ WebGL incl. reference resolution 960x600
 <img src ="Assets/MyGame/Sprites/football_PNG52775.png" width="500px">
 </div>
 
+Template used: https://github.com/3ahmnm-htlsbg/Unity2019114f1-2D-Template
+
 ### Project state: 
 when pushing the button the ball moves, but there is no WebGL yet
  
